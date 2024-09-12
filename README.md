@@ -14,11 +14,12 @@
 ### 💻 I am a Full Stack Developer at FPT
 - 🌱 I’m currently learning Backend Development.
 - 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2024 Goals: Contribute to Open Source projects
+- 🎯 Goals: to become a successful Technical Leader, an Entrepreneur
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
+- 📞 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
+  
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -27,7 +28,7 @@
 <h3 align="left">📬 Connect with me:</h3>
   <p>
     <a href="https://www.linkedin.com/in/aakashsh1999" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hgdsandakalum/)](https://www.linkedin.com/in/hgdsandakalum/"></a>
-  <a href="https://www.hackerrank.com/aakashsh1999" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-222222?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/h_g_d_sandakalum)](https://www.hackerrank.com/h_g_d_sandakalum"></a>
+  <a href="https://www.hackerrank.com/aakashsh1999" target="_blank"><img src="https://img.shields.io/badge/-Facebook-222222?style=flat-square&logo=Facebook&logoColor=white&link=https://www.hackerrank.com/h_g_d_sandakalum)](https://www.hackerrank.com/h_g_d_sandakalum"></a>
     <a href="https://www.instagram.com/aakashsh1999" target="_blank"><img src="https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_.sanda._)](https://www.instagram.com/_.sanda._/"></a>
     <a href="https://stackoverflow.com/users/11788531/aakash-sharma?tab=profile"><img src="https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/16900340/dananjaya-sandakalum)](https://stackoverflow.com/users/16900340/dananjaya-sandakalum"></a>
   </p>
