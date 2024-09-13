@@ -4,7 +4,7 @@
 
 ## 😎 About me
 
-<h3 align="center">A passionate Full-Stack Developer. Love to build Mobile and Web Applications with the latest and the State-of-the-art techonolgy 😄
+<h3 align="center">A passionate Full-Stack Developer. Love to build Mobile and Web Applications with the latest and the State-of-the-art techonolgy. Detail- oriented, organized and meticulous employee. Enthusiastic team player ready to contribute to company success. Well fluent in English and accustomed to working with cross-cultural, global teams. 😄
 </h3>
 
 <br>
@@ -12,11 +12,11 @@
 <img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 ### 💻 I am a Full Stack Developer in Vietnam 🇻🇳
-- 🌱 I’m currently learning Backend Development.
+- 🌱 I currently focus on Backend Development.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🎯 Goals: to become a successful Technical Leader, an Entrepreneur
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📞 How to reach me: [Let's get in touch!][linkedin]
+- 📞 How to reach me: [Let's get in touch!](https://linkedin.com/in/sontranams2907)
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
   
@@ -26,10 +26,10 @@
 </br>
 
 ## 📬 Connect with me:
-  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://x.com/officialayo540) 
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/officialayo540) 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayo540) 
-  [![Github](https://img.shields.io/badge/Github-black.svg?logo=Github&logoColor=white)](https://instagram.com/officialayo540) 
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004408235260) 
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.facebook.com/profile.php?id=100004408235260) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sontranams2907) 
+  [![Github](https://img.shields.io/badge/Github-black.svg?logo=Github&logoColor=white)](https://github.com/SontranBK) 
   [![Gmail](https://img.shields.io/badge/Gmail-%23ff4343.svg?logo=Gmail&logoColor=white)](mailto:transon.ams@gmail.com) 
 
 </br>
