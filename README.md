@@ -11,7 +11,7 @@
 
 <img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
-### 💻 I am a Full Stack Developer at FPT
+### 💻 I am a Full Stack Developer in Vietnam 🇻🇳
 - 🌱 I’m currently learning Backend Development.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🎯 Goals: to become a successful Technical Leader, an Entrepreneur
@@ -25,158 +25,56 @@
 <!-- BLOG-POST-LIST:END -->
 </br>
 
-<h3 align="left">📬 Connect with me:</h3>
-  <p>
-    <a href="https://www.linkedin.com/in/aakashsh1999" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hgdsandakalum/)](https://www.linkedin.com/in/hgdsandakalum/"></a>
-  <a href="https://www.hackerrank.com/aakashsh1999" target="_blank"><img src="https://img.shields.io/badge/-Facebook-222222?style=flat-square&logo=Facebook&logoColor=white&link=https://www.hackerrank.com/h_g_d_sandakalum)](https://www.hackerrank.com/h_g_d_sandakalum"></a>
-    <a href="https://www.instagram.com/aakashsh1999" target="_blank"><img src="https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_.sanda._)](https://www.instagram.com/_.sanda._/"></a>
-    <a href="https://stackoverflow.com/users/11788531/aakash-sharma?tab=profile"><img src="https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/16900340/dananjaya-sandakalum)](https://stackoverflow.com/users/16900340/dananjaya-sandakalum"></a>
-  </p>
+## 📬 Connect with me:
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://x.com/officialayo540) 
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/officialayo540) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayo540) 
+  [![Github](https://img.shields.io/badge/Github-black.svg?logo=Github&logoColor=white)](https://instagram.com/officialayo540) 
+  [![Gmail](https://img.shields.io/badge/Gmail-%23ff4343.svg?logo=Gmail&logoColor=white)](transon.ams@gmail.com) 
+
 </br>
 
-<h3 align="left">🛠 Languages and Tools:</h3>
-<p style="display: inline-block;" align="center">
-  <kbd>
-    <kbd>Programming Languages</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /> 
-      <a href="https://www.typescriptlang.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-  </kbd>
-  <kbd>
-    <kbd>Back-end</kbd>
-    <br>
-    <br>
-    <a href="https://expressjs.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
-      width="40"
-      height="40"
-    />
-  </a>
-      <a href="https://nodejs.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-      <a href="https://postman.com" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="40"
-      height="40"
-    />
-  </a>
-  </kbd>
-   <kbd>
-    <kbd>Mobile</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
-     <img src="https://pagepro.co/blog/wp-content/uploads/2020/03/react-native-logo-884x1024.png" width="30px"/>
-  </kbd>
- <kbd>
-  <kbd>
-    <kbd>Front-end</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
-      <a href="https://redux.js.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-      alt="redux"
-      width="30"
-      height="30"
-    />
-  </a>
-     <a href="https://sass-lang.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
-      width="40"
-      height="40"
-    />
-  </a>
-<!--     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /> -->
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-     <a href="https://tailwindcss.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="40"
-      height="40"
-    />
-  </a>
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="30"
-      height="30"
-    />
-  </kbd>
-  <kbd>
-    <kbd>Database</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-  </kbd>
-  <br>
-  <br>
-  <kbd>
-  <kbd>
-    <kbd>System, Networking & Deployment</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
-<!--     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg" /> -->
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-      <a href="https://firebase.google.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="40"
-      height="40"
-    />
-  </a>
-  </kbd>
-  <kbd>
-    <kbd>Terminal Scripts</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Tools</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<!--     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" /> -->
-<!--     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" /> -->
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-    <img width="30px" src="https://repository-images.githubusercontent.com/59065830/b62be480-45d2-11ea-9989-803db0f9c44d" />
-  </kbd>
-   <kbd>
-</br>
-    </p>
-<h3 align="left">📈 Stats:</h3>
+## 🛠 Languages and Tools:
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![React](https://img.shields.io/badge/react%20and%20react%20native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+![Flutter](https://img.shields.io/badge/flutter-%231fbcfd.svg?style=for-the-badge&logo=flutter&logoColor=#00C7B7) 
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
+
+![NodeJS](https://img.shields.io/badge/node.js-215732?style=for-the-badge&logo=node.js&logoColor=white) 
+![ExpressJS](https://img.shields.io/badge/Express.js-%23323330.svg?style=for-the-badge&logo=express&logoColor=white) 
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
+![mariadb](https://img.shields.io/badge/mariadb-%2300758F.svg?style=for-the-badge&logo=mariadb&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-%233E2C00.svg?style=for-the-badge&logo=Git&logoColor=white) 
+![GitLab](https://img.shields.io/badge/GitLab-%23fc6d26.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-black.svg?style=for-the-badge&logo=github&logoColor=white)
+![BitBucket](https://img.shields.io/badge/BitBucket-%230C61DB.svg?style=for-the-badge&logo=BitBucket&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-%2320232a.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white) 
+![Azure](https://img.shields.io/badge/Azure-%23007FFF.svg?style=for-the-badge&logo=googlecloud&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23FF9100.svg?style=for-the-badge&logo=firebase&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=Docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white) 
+![Jenkins](https://img.shields.io/badge/Jenkins-%23335061.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23fc6d26.svg?style=for-the-badge&logo=Grafana&logoColor=white) 
+![Terminal](https://img.shields.io/badge/Terminal-%234D4D4D.svg?style=for-the-badge&logo=gnometerminal&logoColor=white) 
+
+![Material UI](https://img.shields.io/badge/Material--UI-1565C0?style=for-the-badge&logo=mui&logoColor=white) 
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) 
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) 
+![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+
+## 📈 Stats:
+
 <!-- <p align="center">
 <img src="https://metrics.lecoq.io/SontranBK?template=terminal&config.timezone=Asia%2FCalcutta" alt="SontranBK"
 </p>
@@ -200,6 +98,7 @@
 </p>
   </a>
 <h2 align="center">My Github Stats</h2>
+
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SontranBK&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
 <br>
