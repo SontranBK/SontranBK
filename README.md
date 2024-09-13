@@ -45,7 +45,6 @@
 ![Flutter](https://img.shields.io/badge/flutter-%231fbcfd.svg?style=for-the-badge&logo=flutter&logoColor=#00C7B7) 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
-
 ![NodeJS](https://img.shields.io/badge/node.js-215732?style=for-the-badge&logo=node.js&logoColor=white) 
 ![ExpressJS](https://img.shields.io/badge/Express.js-%23323330.svg?style=for-the-badge&logo=express&logoColor=white) 
 ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
@@ -55,7 +54,6 @@
 ![GitLab](https://img.shields.io/badge/GitLab-%23fc6d26.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-black.svg?style=for-the-badge&logo=github&logoColor=white)
 ![BitBucket](https://img.shields.io/badge/BitBucket-%230C61DB.svg?style=for-the-badge&logo=BitBucket&logoColor=white)
-
 ![AWS](https://img.shields.io/badge/AWS-%2320232a.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white) 
 ![Azure](https://img.shields.io/badge/Azure-%23007FFF.svg?style=for-the-badge&logo=googlecloud&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23FF9100.svg?style=for-the-badge&logo=firebase&logoColor=white) 
@@ -65,7 +63,6 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23335061.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-%23fc6d26.svg?style=for-the-badge&logo=Grafana&logoColor=white) 
 ![Terminal](https://img.shields.io/badge/Terminal-%234D4D4D.svg?style=for-the-badge&logo=gnometerminal&logoColor=white) 
-
 ![Material UI](https://img.shields.io/badge/Material--UI-1565C0?style=for-the-badge&logo=mui&logoColor=white) 
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) 
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) 
